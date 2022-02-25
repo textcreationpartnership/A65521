@@ -1,0 +1,369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Westminster projects, or, The mystery of iniquity of Darby-House discovered</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65521</idno>
+            <idno type="STC">Wing W1468</idno>
+            <idno type="STC">ESTC P1081</idno>
+            <idno type="EEBO-CITATION">12364355</idno>
+            <idno type="OCLC">ocm 12364355</idno>
+            <idno type="VID">60357</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60357)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 907:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Westminster projects, or, The mystery of iniquity of Darby-House discovered</title>
+               </titleStmt>
+               <extent>[2], 6, 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Special t.p.: Westminster projects, or, The mystery of iniquity of the committee of Darby House discovered, numb. 6.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1660.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:60357:1" rendition="simple:additions"/>
+                  <p>
+                     <hi>Numb.</hi> 5.</p>
+                  <p>Weſtminſter Projects: OR, The Myſtery of Iniquity
+<hi>OF</hi> Darby-Houſe Diſcovered.</p>
+                  <lg>
+                     <l>A Plot, a Plot, our Saviours cry,</l>
+                     <l>But dare it not declare,</l>
+                     <l>Becauſe alas! they know full well,</l>
+                     <l>Themſelves the Traitors are.</l>
+                  </lg>
+                  <lg>
+                     <l>Yet though they think themſelves ſecure,</l>
+                     <l>And juggle with the City,</l>
+                     <l>(Who are deluded once againe,</l>
+                     <l>And cheated, more's the pity;)</l>
+                  </lg>
+                  <lg>
+                     <l>Yet yet them know, their knavery ſhall</l>
+                     <l>To all the world appeare:</l>
+                     <l>For, I'le not keep their ſecrets, I,</l>
+                     <l>For flatterie or feare.</l>
+                  </lg>
+                  <p>Printed, no body knowes where; licenſed, no body knows when; and ſent into the world by the appointment of the ſaid Committee, becauſe they could not help it, in this yeare of their vexation, 1648.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:60357:2"/>
+                  <pb n="1" facs="tcp:60357:2"/>
+                  <head>VVeſtminſter Projects.</head>
+                  <p>IT is ſtrange, that in a time of Reformation there ſhould be ſo much wickedneſſe, and in high places too: that Weſtminſter ſhould after all its ſeeming ſanctity, become ſuch a Den of Devills, ſuch a Cage of unclean Birds; but what remedy? what is paſt cure, muſt be paſt care alſo.</p>
+                  <p>But yet it is requiſite that they ſhould be knowne; for Knaves unknowne paſſe for honeſt men, and there is not ſuch a ſubtill deceiver in the world, as an Angell of light: a Devill in the ſhape of a Saint, (eſpecially at Weſtminſter) hath done more miſchief, then all the honeſt men there can ever do good: I confeſſe it a won<g ref="char:EOLhyphen"/>der there is no more hurt done, conſidering honeſt men are ſo ſcarce there, and knaves ſo plentifull; for you can ſcarce peep into a Committee, but you ſhall find ten, if there be eleven in the number, two in a Commit<g ref="char:EOLhyphen"/>tee is a miracle; nay, if you find one in the Commit<g ref="char:EOLhyphen"/>tee of Derby, I'le give you leave to hang him, though my Lord <hi>Say</hi> himſelfe be there: But now I talke of that Committee, I will tell you ſtrange newes, they have done the Kingdome good ſervice; and is not that a wonder in a Committee? And if you aske how, I muſt tell you they have diſcovered a Plot, and well they might, if you knew all, you would ſay ſo; for as ſure as I live they made it, <hi>the Fox is the finder,</hi> and for fear others ſhould diſcover it, they did it them<g ref="char:EOLhyphen"/>ſelves, you know it is good to cry Whore firſt; but you may obſerve the knavery of the Baker: They tell us of a Plot againſt the Kingdome, Parliament and City, but by whom they know not, not one actor or
+<pb n="2" facs="tcp:60357:3"/>contriver is diſcovered; and why thinke you? becauſe the Earle of <hi>Northumberland,</hi> the Chaire-man of the Committee thinks it not convenient, for fear he ſhould be troubled to purchaſe the life of another
+<hi>Waller</hi> to ſe<g ref="char:EOLhyphen"/>cure his head from the Block: But becauſe you ſhall not be kept in ignorance, know their Proverb is verifi<g ref="char:EOLhyphen"/>fied, there is ſeldome much ſmoke, but there is ſome fire; ſo you ſhall find, that there is not only a talk of a Plot, but ſuch a plot indeed, as tends to the ruine and deſtruction of all honeſt men in the Kingdome: The particulars thus.</p>
+                  <p n="1">1 For the ſeverall Counties of Eſſex, Surrey and Kent, the ground and growth of their late Petitions proceeded and had their births from a party in the Houſes of Parliament, being Members of the Com<g ref="char:EOLhyphen"/>mittee of Derby-houſe, with other of their creatures, the Earle of
+<hi>Warwick</hi> was the firſt promoter of Eſſex Petition, Sir <hi>Arthur Anſtoe</hi> of Surrey, and Sir Simple<g ref="char:EOLhyphen"/>ton <hi>Walſingham,</hi> with other of his Adherents were drawn into the preſent ingagement of Kent.</p>
+                  <p n="2">2. For London and the parts adjacent, there hath been a deſigne of liſting many thouſands, and putting them into Armes, which deſigne hath had its riſe and birth from the treacherous braine of
+<hi>Algernon Percy,</hi> whoſe name and family never were found to be faith<g ref="char:EOLhyphen"/>full, either to God or their Countrey; and it may be boldly averred, that he was never other then a Tray<g ref="char:EOLhyphen"/>tor to the Kingdome ſince the late Warre, witneſſe the plot for which <hi>Tompkins</hi> and <hi>Challenor</hi> were mur<g ref="char:EOLhyphen"/>thered, wherein the Earle of <hi>Northumberland</hi> was a chiefe Actor with <hi>Waller,</hi> and therefore though <hi>Wal<g ref="char:EOLhyphen"/>ler</hi> was the greateſt offender, as having ingaged others, yet he muſt be ſold to the Earl of
+<hi>Northumberland</hi> for <pb n="3" facs="tcp:60357:3"/>ſome thouſands of pounds, and by him conveighed into France, not only to conceale his Knavery, but to be his Agent, to keep up his credit with the Queen, and give him intelligence what the Queene deſires ſhould be effected. This is the reaſon why you have no further diſcovery of this dangerous plot, whereas had the finders been free, you ſhould have had them proclaimed the Authors names, impriſoned them, ſei<g ref="char:EOLhyphen"/>zed their eſtates, &amp;c. and had a day of Thankſgiving, whereas now you ſee them rather deſire a day of Hu<g ref="char:EOLhyphen"/>miliation for ſorrow that they were ſo ſoon diſco<g ref="char:EOLhyphen"/>vered.</p>
+                  <p>Neither is this honoured Gentleman without o<g ref="char:EOLhyphen"/>ther accomplices, for there is a Cabinet-Councell of them, to wit, Sir <hi>William Lewis,</hi> Sir <hi>Iohn Clotworthy,</hi> the <hi>Earle of Holland,</hi> the
+<hi>Counteſſe of Carliſle,</hi> Doctor <hi>Fraper a Scot,</hi> Sir
+<hi>Peter Killigrew, cum multis alus,</hi> all which receive conſtant intelligence from the Queen, and act accordingly, and by their deſignement are all theſe commotions and troubles which threaten the Kingdome; to that end is the Earle of <hi>Northumbealand</hi> Chaire-man of the Committee of Safety at Derby<g ref="char:EOLhyphen"/>houſe, to the end he may be inabled to retard procee<g ref="char:EOLhyphen"/>dings, eſpecially if they croſſe the ends they aime at: But becauſe you ſhall ſee that I ſpeake more then pro<g ref="char:EOLhyphen"/>babilities, (although my neer relation to them would hinder) yet I will clearly diſcover unto you the very bottome of their deſign.</p>
+                  <p>In order to which give me leave to informe you, that the quarrell betwixt the Factions in the Houſes, is now not whether the King ſhall be brought in, but who ſhall bring him in, and who ſhall be the Princes of the People under him, when brought in. The Roy<g ref="char:EOLhyphen"/>all <pb n="4" facs="tcp:60357:4"/>Presbyterian and Independent, (for there are ſuch of both ſorts, as
+<hi>Northumberland, Warwick, Say, Crum<g ref="char:EOLhyphen"/>well, Ireton, Vane, Senior, Vane Iunior,</hi> &amp;c. they would bring in the King upon their accompt, and make ſuch an agreement with him, as might not only ſecure them with ſafety, but advance them to honour alſo: The re<g ref="char:EOLhyphen"/>all Presbyterian and reall Independent, they are wil<g ref="char:EOLhyphen"/>ling to bring in the King, but they would firſt have the King ſecure unto them Religion, Law, and the Liber<g ref="char:EOLhyphen"/>ties of the Nation, but alack they are but a few, and their tale cannot be heard, for the cry of others is, <hi>Let us uſe the beſt means we can to ſatisfie the King,</hi> no matter what becomes of the Kingdome: And to this end have they underhand promoted and procured theſe tumults, ſo that thereby they might force the Houſe to an adjournment, which is the chiefe thing they deſire, and if procured, then all the power will reſide in that Committee.</p>
+                  <p>And becauſe they will be ſure to doe their worke, they have endeavoured to bring in ſeven Lords more, into them, namely, their whole Houſe, which if effe<g ref="char:EOLhyphen"/>cted, we ſhall be troubled no more with a Houſe of Peers, or Parliament, but muſt be governed by a Com<g ref="char:EOLhyphen"/>mittee of Eſtates, and by the power of the Army, (which by the aſſiſtants of their Grandee Janiſaries, to wit Sultan <hi>Cromwell,</hi> Baſhaw <hi>Ireton,</hi> &amp;c. they doubt not but to quell all their oppoſers, and make ſuch a peace with the King, as ſhall ſecure their power or ſet up another, which ſhall be but a Cypher, to bear the blame of their miſgovernment, and pleaſe the people withall, who they ſay, would be quiet, if they had any thing like a King, though never ſo powerleſs or witleſs.</p>
+                  <p>And now give me leave to pity thoſe Gentlemen and
+<pb n="5" facs="tcp:60357:4"/>others who ſo freely enter into an Ingagement upon ſuch ſlen<g ref="char:EOLhyphen"/>der grounds, and never weigh the conſequence of ſuch ender<g ref="char:EOLhyphen"/>takings. Did the Gentlemen of Eſſex, Surrey, and Kent, with other the Free-holders but conceive how theſe men hug them<g ref="char:EOLhyphen"/>ſelves with the ſweet apprehenſions of their accompliſhing their deſigns by their actings, yea, I ſay, did they but as I doe, heare and ſee with what contentment of ſpirit they receive the tidings of ſuch their tumultuous approaches, and indeavours to terrifie and diſſolve the Parliament, and with what under<g ref="char:EOLhyphen"/>valuing words they ſpeak of them, as knowing themſelves a<g ref="char:EOLhyphen"/>ble when they pleaſe to cruſh them and bring them under the laſh; and did they (I ſay) but wich me know, that all their delayes therein, is but to give time to the Parliament to chew upon their fears, (which they by their creatures indeavour to heighten) that ſo they might be neceſſitated to adjourne, and look for their own ſecurity, they would more ſuddenly have manifeſted their ſpleen, &amp; by the power of the ſword deſtroyed thoſe that have thus ignorantly proſecuted what they them<g ref="char:EOLhyphen"/>ſelves ſo cunningly deſigned.</p>
+                  <p>Neither can I chooſe but pittie the Kings friends, when I conſider into what a ſnare they have run them<g ref="char:EOLhyphen"/>ſelves: I make no queſtion but that they did cordially intend their aſſiſtance for the Kings reſtauration, but by theſe actings (as theſe Politicians have ordered it) they have contributed aſſiſtance to the Kings ruine: for they muſt know, that if the Houſe adjourne, and theſe ſeem<g ref="char:EOLhyphen"/>ing ſtormes be once blown over, if the King will not grant what they deſire, theſe actings (though by them<g ref="char:EOLhyphen"/>ſelves deſigned and promoted) ſhall be charged upon the Kings accompt, and brought as arguments to juſti<g ref="char:EOLhyphen"/>fie their future dealings with him.</p>
+                  <p>Thus you ſee the wits of the time out-witted, and the proverb verified, <hi>All is not gold that gliſters.</hi> Here you ſee a whole Kingdome abuſed, and in danger to be inſlaved to advance the intereſt of foure and twenty K—. O that Engliſhmen would be wiſe, and at
+<pb n="6" facs="tcp:60357:5"/>laſt, before it bee too late, by an happy union ſeek the eſtabliſhment of <hi>iuſtice</hi> and <hi>freedome.</hi>
+                  </p>
+                  <p>Can you ever expect happineſſe from extremes? can you find certainty in uncertainties? or doe you ever look to get peace by warre, order by confuſion? cer<g ref="char:EOLhyphen"/>tainly no rationall man can be ſo beſotted as to ima<g ref="char:EOLhyphen"/>gine, that certain rules of government could be a bur<g ref="char:EOLhyphen"/>den to him, ſeeing onely uncertainty hath occaſioned all our trouble? Had the Kings power and the Parlia<g ref="char:EOLhyphen"/>ments Priviledges been limited and declared, the exer<g ref="char:EOLhyphen"/>ciſe of the
+<hi>Militia</hi> could never have cauſed ſuch a blou<g ref="char:EOLhyphen"/>dy diſpute: And I do conceive it is not our work now to conteſt for preſerving the now-eſtabliſhed Lawes, ſince we have experimentally found many of them to be burthenſome and deſtructive in themſelves, none of them (by reaſon of abuſe and corruption) a protection to us in our liberties or properties: but to labour for ſuch an eſtabliſhment for the future, as may be a cer<g ref="char:EOLhyphen"/>tain and ſafe rule for Kings, Parliaments and People to walk by, ſince neither in reaſon ought to be abſolved from obedience to all juſt Lawes; or left to govern, or be governed, by the dictates of luſt, will or pleaſure.</p>
+                  <lg>
+                     <l>This rule muſt make us happy, this muſt be</l>
+                     <l>The happy meanes to make this People free:</l>
+                     <l>Lawes juſt and equall, now, can onely bring</l>
+                     <l>Peace to the Nation, honour to the King.</l>
+                     <l>Unite then quickly; 'tis your union muſt</l>
+                     <l>Force your oppreſſors to be truly juſt:</l>
+                     <l>And without you unite, you ſtrive in vaine,</l>
+                     <l>Juſtice or Freedome ever to obtaine.</l>
+                     <l>Strike hands then boldly, yeeld not to be ſlaves</l>
+                     <l>To cruell Tyrants, nor to ſubtill Knaves.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:60357:5" rendition="simple:additions"/>
+                  <p>
+                     <hi>Numb.</hi> 6.</p>
+                  <p>VVeſtminſter Projects OR THE Myſtery of Iniquity OF THE Committee of Darby Houſe DISCOVERED.</p>
+                  <lg>
+                     <l>Plot on great <hi>Wharton</hi> and contrive</l>
+                     <l>to ſave the Houſe of Peers;</l>
+                     <l>For if the King do but ſurvive</l>
+                     <l>He'l pull them by the ears.</l>
+                     <l>Pray ſend for <hi>Say,</hi> and <hi>St. Johns</hi> too,</l>
+                     <l>and ſtudy ſome device,</l>
+                     <l>To cheat the Kingdom once again:</l>
+                     <l>Y'ave done it neatly twice.</l>
+                     <l>The Proverb is, <hi>beware the third;</hi>
+                     </l>
+                     <l>For if you make a blort</l>
+                     <l>'Tis ten to one, you loſe your heads;</l>
+                     <l>and then you'l ſpoil the ſport:</l>
+                     <l>For I ſhould very ſorry be,</l>
+                     <l>you ſhould ſuch honour have,</l>
+                     <l>A Halter I could well afford,</l>
+                     <l>the portion of a knave.</l>
+                  </lg>
+                  <p>Printed no body knows where, licenced no body knows when, and ſent into the world by the appointment of the ſaid Committee, be<g ref="char:EOLhyphen"/>cauſe they could not help it, in the year of their vexation. 1648.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:60357:6"/>
+                  <pb n="3" facs="tcp:60357:6"/>
+                  <head>Weſtminſter Projects.</head>
+                  <p>WHat a ſtrange age are we fallen into? where no<g ref="char:EOLhyphen"/>thing but
+<hi>knavery</hi> is practiſed, and nothing but <hi>Religion</hi> profeſſed; <hi>ſeeming holineſs</hi> hath cau<g ref="char:EOLhyphen"/>ſed our
+<hi>unhappineſs,</hi> and we are cheated into <hi>ſlavery,</hi> by fair promiſes of <hi>Freedom</hi> and <hi>Liberty: O tempora! O mores!</hi> O times! O manners! whom ſhall we beleeve or truſt, if not thoſe that are ſeemingly clothed with righteouſneſs; who with ſuch zeal dare call the God of Heaven to evidence the ſincerity of their hearts, in that they had no other end or intention then the ad<g ref="char:EOLhyphen"/>vancement of His Majeſty, and the Peace of the Kingdom?</p>
+                  <p>But alas, alas, Great men are ſubject to forgetfulneſs, eſpecially when their honor and promotion ſtand in competition with their Religion; witneſs our ambitious Lords, and oppreſſing Grandees, who ſeven years ago preacht a doctrine, that the King might not op<g ref="char:EOLhyphen"/>preſs, but now they tell us they may: A King might not impeach, impriſon, fine, &amp;c. but now they may, and have; witneſs their un<g ref="char:EOLhyphen"/>juſt dealings with the ſeven impeached Lords, eleven impeached Commons, and the four Aldermen: (for the fift he proved a <hi>Culli<g ref="char:EOLhyphen"/>on,</hi> and acknowledged himſelf a Traytor, and ſo became capable of mercy, and the enjoyment of fourteen hundred a year, by the exciſe, which if he had not ſubmitted, and kiſſed ſultan
+<hi>Cromwels</hi> great Toe, he had ſurely loſt: and therefore all things conſidered, <hi>Alderman Cullum</hi> was the wiſeſt man, for what are all the Liberties of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> worth in compariſon of his office? Alas money will buy him a good name, and ſo long as he is free, no matter who are ſlaves:) But on the contrary I muſt commend the valour, honeſty, and inno<g ref="char:EOLhyphen"/>cency of thoſe worthy Patriots of their Country, Sir <hi>John Maynard,</hi> Sir <hi>John Geare, Alderman Adams, Alderman Langham,</hi> and
+<hi>Al<g ref="char:EOLhyphen"/>derman Bunce,</hi> who for their own Vindication, and the ſecuring the Liberties of <hi>England</hi> out of the jaws of thoſe devouring
+<hi>Har<g ref="char:EOLhyphen"/>pies</hi> 
+                     <pb n="4" facs="tcp:60357:7"/>the Lords, (who ſtudy nothing more than to make the people ſlaves,) have ſo nobly entered the Liſts, and notwithſtanding so ma<g ref="char:EOLhyphen"/>ny diſadvantages (in reſpect of cuſtom, preſidents, power and per<g ref="char:EOLhyphen"/>ſwaſions to the contrary) have continued the combate, and come off, not only unfoild, but with honor, having thrown the Lords Ju<g ref="char:EOLhyphen"/>riſdiction (by them uſurped over Commons) on its back; ſo that unleſs Engliſhmen prove the worſt of cowards it will not be poſſi<g ref="char:EOLhyphen"/>ble for the Lords ever to dare to take the impudence to adjudg, fine, or impriſon a Commoner more, for which noble act of theirs they deſerve to have their names engraven in Marble with this memo<g ref="char:EOLhyphen"/>rial.</p>
+                  <lg>
+                     <l>Maynard, Gayer, Adams, Langham, Bunce, <hi>did ſave</hi>
+                     </l>
+                     <l>
+                        <hi>Our</hi> Engliſh Freedoms <hi>from the very grave</hi>
+                     </l>
+                     <l>
+                        <hi>Of dire deſtruction; cauſe they phainly ſaw,</hi>
+                     </l>
+                     <l>
+                        <hi>The</hi> Lords <hi>uſurp a</hi> Power <hi>above the</hi> Law,</l>
+                     <l>
+                        <hi>They took the Laws part; and the Lords reſist,</hi>
+                     </l>
+                     <l>
+                        <hi>And having choak'd them with a</hi> Scottiſh Miſt</l>
+                     <l>
+                        <hi>Bravely retreated, for which Fame intends</hi>
+                     </l>
+                     <l>
+                        <hi>To crown them with the name o'th</hi> Peoples Friends.</l>
+                     <l>
+                        <hi>Which to their Generations ſhall remain</hi>
+                     </l>
+                     <l>
+                        <hi>A badg of honor, Time ſhall ne're obtain</hi>
+                     </l>
+                     <l>
+                        <hi>To have forgotten, but ſhall make them be</hi>
+                     </l>
+                  </lg>
+                  <p>But for <hi>Cullum</hi> this ſhall be his memorial.</p>
+                  <lg>
+                     <l>
+                        <hi>Here lies a man did Law and fame deſpiſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Betray'd his cauſe, for an office in th' Exciſe:</hi>
+                     </l>
+                     <l>
+                        <hi>Confeſt himſelf a Traytor, which is moe,</hi>
+                     </l>
+                     <l>
+                        <hi>For profits ſake did kiſs great</hi> Cromwels
+<hi>Toe:</hi>
+                     </l>
+                     <l>
+                        <hi>Twelve hundred pounds</hi> per annum, <hi>for to ſave,</hi>
+                     </l>
+                     <l>
+                        <hi>He ſold his Faith, and proved a fawning knave.</hi>
+                     </l>
+                  </lg>
+                  <p>But now I talk of twelve hundred pounds, give me leave to tell you that it is no wonder that we are ſlaves to the Grandees, nay, that we are no more ſlaves then we are, for you muſt know, that there are in the City but 24. Aldermen, and at leaſt fourteen of them <pb n="5" facs="tcp:60357:7"/>have fourteen hundred a year by their places, which they enjoy by the favour of the ruling party of Lords and Commons: and where<g ref="char:EOLhyphen"/>fore think you is it that they confer ſuch places on them? is it not to the end that they may give them aſſiſtance to enſlave and ride you when they pleaſe. Have they not all along made uſe of their power and intereſt in the City, to raiſe what ſums of money they pleaſed? and if a demand was made for the loan of ten or twenty thouſand pounds, would not theſe men always appear the promoters thereof, and to draw others on, make proffers to lend a thouſand pounds a man, which they knew well enough how to pay themſelves again, out of the Treaſury; but for you, you muſt be content with the pub<g ref="char:EOLhyphen"/>lick Faith; nay, Hay, have they not by this means had ſuch an in<g ref="char:EOLhyphen"/>fluence upon the Councels and Government of this City, that we have not had liberty to chuſe our own Governors or Officers, nor diſpoſe of our own Militia, or indeed do any thing, but what corre<g ref="char:EOLhyphen"/>ſponded with the ſence of the Grandee Faction, but it ſhould meet great oppoſition in debate at our Common Councels; and if they could not carry things there as they deſired, then preſently the pow<g ref="char:EOLhyphen"/>er of the Parliament muſt be made uſe of to forbid the proſecution of that, which they by their intereſt could not hinder: Thus are you notwithſtanding all your ſtruglings for Freedom, involved in ſlavery, and yet know it not, for it cannot be imaginable that theſe men which get ſo much by the Grandee Faction, as <hi>Gibs, Woolaſton, Foulk, &amp;c.</hi> ſhould ever carry on any other intereſt then their Ma<g ref="char:EOLhyphen"/>ſters; and unleſs you be wiſe, and force all ſuch Pentionary Alder<g ref="char:EOLhyphen"/>men to diſgorge, give up their places, or throw off their Gowns, which would be beſt of all, and chooſe honeſter in their rooms, and alſo make proviſion for the future, that no Alderman or other Magi<g ref="char:EOLhyphen"/>ſtrate ſhall take upon him any ſuch employment, as the receiving and diſpoſing of the publike Treaſure: It is impoſſible for you to be o<g ref="char:EOLhyphen"/>ther ſlaves, and ſo to be liable to be oppreſſed, taxed and cheated: for if he that hath a ſword in his hand ſhall have power to diſpoſe of the publick treaſure, he will not fear to be his own carver, and who ſhall dare to call him to an account?</p>
+                  <p>But I have found ſo much knavery in the City, that I had almoſt loſt my way to <hi>Weſtminſter,</hi> which is the very fountain of fallacy; where in the firſt place I met with a Committee of Condemnation,
+<hi>alias,</hi> a Committee of Indempnity, where I found them robbing
+<pb n="6" facs="tcp:60357:8"/>
+                     <hi>Peter</hi> to pay <hi>Paul:</hi> There was a great controverſie, and the de<g ref="char:EOLhyphen"/>bate was deſperate and dubitable, whether the Keeper of <hi>Newgate</hi> Mr <hi>Woolaſton</hi> ſhould be protected for his knavery, or Colonel <hi>Lilburne</hi> puniſhed for his honeſty: I was loth to ſtay to ſee the iſ<g ref="char:EOLhyphen"/>ſue, for fear it ſhould have ſtunk, for it is ten to one but the knave Jaylor had the moſt of the Committee on his ſide, becauſe there was a knave Lord or two to overlook them, for fear they ſhould do juſtice and ſuffer the Rogue to be hanged for his knavery, and then they be put to the trouble to ſend a reprieve to hell for him, knowing it is impoſſible on earth to find ſo fit an inſtrument to ex<g ref="char:EOLhyphen"/>ecute their infernal commands.</p>
+                  <p>From thence I went to the Committee of ſafety at <hi>Darby Houſe</hi> where I found them as ſafe as a Cat in a Cubbard, hugging them<g ref="char:EOLhyphen"/>ſelves for joy at the ſucceſſe of their Plot, which was as fol<g ref="char:EOLhyphen"/>loweth:</p>
+                  <p>I told you the laſt time how and by what means the tumults in the ſeveral Counties were occaſioned, namely by the underhand de<g ref="char:EOLhyphen"/>ſignements of this Grandee Faction, ſitting at <hi>Darby Houſe:</hi> Give me leave now to tell you further, that all theſe appearances by
+<hi>Goring &amp;c.</hi> for the King, are but deluſions, and by deſigne, thereby to perfect their work of perpetuation of their power.</p>
+                  <p>It is certain that <hi>Goring</hi> is imployed by theſe juggling knaves, on<g ref="char:EOLhyphen"/>ly to engage as many as he can in the name of the King, thereby to give them an opportunity to cruſh and bring the Kings party ſo low, that it ſhall not be poſſible for them to riſe again, which, if effected, ſay they, it will bring ſuch a terrour upon all other parties in the Kingdom, that do what we will, we ſhall not need to fear any: And then ſhall the King be neceſſitated either to accept of ſuch conditions as we ſhall afford him, or elſe we ſhall be in pow<g ref="char:EOLhyphen"/>er to depoſe him, and either keep the power in our own hands, or ſet up the Duke of
+<hi>Gloceſter,</hi> which will ſerve but as a Cypher to pleaſe the people withall.</p>
+                  <p>Suitable to this deſign was the late anſwer to the Counties Pe<g ref="char:EOLhyphen"/>titions, That they would maintain a Government by King, Lords and Commons
+<hi>&amp;c.</hi> And that in due time they would take into conſideration how to ſettle the Kingdom. Which I am confident they are reſolved of, if this work they have now in hand be but ef<g ref="char:EOLhyphen"/>fected, which is as followeth; They will offer to the King ſuch <pb n="7" facs="tcp:60357:8"/>termes of Agreement as ſhall ſerve to ſecure the power and places of honor and preferment of the ruling party of the Parliament and Army; And if the King will joyn with them upon ſuch an account, they will bring him in; but if he will not, then, they ſay, they have ground enough to lay him aſide, and to ſet up the Duke of
+<hi>Gloceſter,</hi> who ſhall only have the title, but th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y will exerciſe the power as a Committee of Eſtates: ſuch a Committee as now ſits at <hi>Darby Houſe;</hi> and if this ſhould be effected, (which will without all queſtion, if the people ſpeedily interpoſe not,) all our ſeven years ſufferings have ſerved but as an Induction to a greater bondage and ſlavery, then what we either found or fear in the King, though without all queſtion if in this way he ſhould prevail, it would be to the peoples extream prejudice.</p>
+                  <p>Therefore my friends ſeeing we are betwixt two extreams, and that whoever rules we are deſigned to ſlavery, let us at laſt act ra<g ref="char:EOLhyphen"/>tionally and ſhew charity to our ſelves, as well as loyalty to the King or affection to the Parliament and Army, for certainly it is poſſible for a King to be happy, and yet a people to be both ſafe and free; for a Parliament to be free and powerful, but not unli<g ref="char:EOLhyphen"/>mited, or unbounded, either in its actions or priviledges, and for an Army to be an uſeful ſervant, and not an inſulting tyrannical maſter.</p>
+                  <p>But without the peoples union upon common and juſt principles for the preſervation of all juſt intereſts, it is impoſſible to keep a King from being a Tyrant, a Parliament from being oppreſſive, or an Army from being abuſive.</p>
+                  <p>Therefore ſeeing the quarrel on all hands is, whoſe intereſt ſhall be ſecured; The King for his, The Parliament for theirs, The Ar<g ref="char:EOLhyphen"/>my for theirs; And in all theſe conteſts you are only deſtroyed, and yet no ſecurity ſought or endeavoured for you; As if your lives e<g ref="char:EOLhyphen"/>ſtates and children were given you only to be made uſe of to ſupport the Ambition of a few men, who by flattery and diſſimulation have gotten titles of honor and places of profit, which they are loth to part with, or give an account for; And therefore you muſt be made their Properties, and by them be enforced to ſpend the fruits of your labour, hazard the lives of your ſelves, children and ſervants, only to keep your ſelves from being ſlaves to one, that you may be ſlaves to another.</p>
+                  <pb n="8" facs="tcp:60357:9"/>
+                  <p>O therefore dear Countrymen, if you have the hearts of Engliſh<g ref="char:EOLhyphen"/>men, before you again endeavour to drown the Kingdom in a de<g ref="char:EOLhyphen"/>luge of Blood, conſider wherefore you fight, and what will be the fruit of it; and at laſt conſult your own ſafety, which ought to be the ſupream Law both to King and Parliament. The people ſafety is the ſupream Law: then without controverſie the Kings power, and the Parliaments too, was conferred upon them for that end, namely to preſerve the People, and not as they have done to deſtroy them.</p>
+                  <p>It is your intereſt now to conſider, what power the King may have that is conſiſtant with your freedom, and what power Parlia<g ref="char:EOLhyphen"/>ments may have alſo, that may enable them to do the work for which you choſe them, and that they be bounded, as to what you empower them, and what not, let them have a rule of certainty, for we ſee apparently uncertainty hath occaſioned all our trouble.</p>
+                  <lg>
+                     <l>
+                        <hi>'Tis this muſt make us happy, this will bring</hi>
+                     </l>
+                     <l>
+                        <hi>Peace to the Nation, Freedom to the King.</hi>
+                     </l>
+                     <l>
+                        <hi>The Peoples Intereſt being thus ſecur'd,</hi>
+                     </l>
+                     <l>
+                        <hi>Oppreſſive taxes will not be endur'd.</hi>
+                     </l>
+                     <l>
+                        <hi>Juſt Peace ſhall be your portion: but till then</hi>
+                     </l>
+                     <l>
+                        <hi>You muſt be vaſſals to the luſts of men.</hi>
+                     </l>
+                     <l>
+                        <hi>Take then your choyſe, be freemen, or be ſlaves?</hi>
+                     </l>
+                     <l>
+                        <hi>If you'l ſupport the intereſt of knaves,</hi>
+                     </l>
+                     <l>
+                        <hi>They'l knaviſhly reward you, you ſhall ſee</hi>
+                     </l>
+                     <l>
+                        <hi>Oppreſſion linkt to your poſteritie.</hi>
+                     </l>
+                     <l>
+                        <hi>Tyrants, and fawning ſycophants ſhall raign,</hi>
+                     </l>
+                     <l>
+                        <hi>Juſtice or Right you never ſhall obtain.</hi>
+                     </l>
+                     <l>
+                        <hi>But if you will be wiſe, and ſtraight combine</hi>
+                     </l>
+                     <l>
+                        <hi>To ſtan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> for Freedom, peace and truth ſhal ſhine</hi>
+                     </l>
+                     <l>
+                        <hi>Throughout your Borders, you ſhall ſurely ſee</hi>
+                     </l>
+                     <l>
+                        <hi>All power employ'd for your ſecuritie:</hi>
+                     </l>
+                     <l>
+                        <hi>King, Parliament and Army ſhall declare,</hi>
+                     </l>
+                     <l>
+                        <hi>You are ſupream, and they your ſervants are;</hi>
+                     </l>
+                     <l>
+                        <hi>When you give limits to their lawleſs wills,</hi>
+                     </l>
+                     <l>
+                        <hi>Then, not till then, ſhall you be free from ills.</hi>
+                     </l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
